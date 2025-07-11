@@ -22,7 +22,7 @@ While manually testing the Past Presidents section, I found that the system allo
 - All duplicate records were stored in the database
 
 **Screenshot:**  
-![Bug Screenshot](<attach-screenshot-url-here>)
+![Bug Screenshot](<./bugScreenshots/pastpresidentdate validation.PNG>)
 
 **Severity:** High  
 **Tools Used:** Trello, Chrome DevTools  
