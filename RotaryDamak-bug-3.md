@@ -22,7 +22,7 @@ While manually testing the Theme section, I observed that the system allows sele
 - No validation or restriction was applied either on the frontend or backend
 
 **Screenshot:**  
-![Bug Screenshot](<attach-screenshot-url-here>)
+![Bug Screenshot](./bugScreenshots/issue.PNG)
 
 **Severity:** Medium  
 **Tools Used:** Trello, Chrome DevTools  
