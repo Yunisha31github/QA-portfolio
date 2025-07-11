@@ -18,7 +18,7 @@ Form submission should be rejected with an error like:
 Form is submitted successfully and future-dated record is saved in the database.
 
 **Screenshot:**  
-![Bug Screenshot](./bugScreenshots/pastpresident.png)
+![Bug Screenshot](./bugScreenshots/pastpresident.PNG)
 
 **Severity:** Medium to High  
 **Tools Used:** Trello, Chrome DevTools  
