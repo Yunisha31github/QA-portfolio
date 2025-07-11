@@ -21,7 +21,7 @@ While manually testing the "President Message" section, I observed that the syst
 - No restriction or validation stopped me from adding another one
 
 **Screenshot:**  
-![Bug Screenshot]()
+![Bug Screenshot](../bugScreenshots/presidentmessage.PNG)
 
 **Severity:** Medium  
 **Tools Used:** Trello, Chrome DevTools(for verifying frontend behavior)   
