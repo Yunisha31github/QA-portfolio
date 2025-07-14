@@ -15,7 +15,7 @@ While testing the Board Members display section, I noticed that members are show
 - Board members appear in the order they were **added**, not according to their **position**
 
 **Screenshot:**  
-![Bug Screenshot](<./bugScreenshots/board_member_issues.PNG>)
+![Bug Screenshot](<./bugScreenshots/board_member_issue.PNG>)
 
 **Severity:** Medium  
 **Tools Used:** Trello, Chrome DevTools  
