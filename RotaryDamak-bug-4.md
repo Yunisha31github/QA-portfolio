@@ -1,4 +1,4 @@
-#Bug #4: Multiple Past Presidents Allowed for the Same Year
+# Bug #4: Multiple Past Presidents Allowed for the Same Year
 
 **Description:**  
 While manually testing the Past Presidents section, I found that the system allows **adding more than one past president for the same year (e.g., 2010-2011)**. There is no backend validation to prevent duplicate year entries, and all of them are stored in the database.
