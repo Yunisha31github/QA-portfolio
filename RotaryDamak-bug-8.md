@@ -1,4 +1,4 @@
-#Bug #8: Multiple Welcome Messages Allowed — Button Should Disable After One
+# Bug #8: Multiple Welcome Messages Allowed — Button Should Disable After One
 
 **Description:**  
 While manually testing the Welcome Message section, I observed that the system allows **adding multiple welcome messages**, even though only **one** should be allowed. There is no restriction or validation preventing duplicate entries, and the **"Add Welcome Message"** button remains active even after one message is submitted.
