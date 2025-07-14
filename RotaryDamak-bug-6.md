@@ -24,6 +24,7 @@ While manually testing the Board Members section on database, I found that the s
 
 **Screenshot:**  
 ![Bug Screenshot](<./bugScreenshots/boardmember validation.PNG>)
+![Bug Screenshot](<./bugScreenshots/multiplepresident.PNG>)
 
 **Severity:** High  
 **Tools Used:** Trello, Chrome DevTools  
